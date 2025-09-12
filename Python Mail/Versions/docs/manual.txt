@@ -1,0 +1,1 @@
+MailPython Program\n\nUsage:\nRun mail.py to send emails using the configured SMTP server.

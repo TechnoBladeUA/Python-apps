@@ -1,0 +1,21 @@
+MailPython Client v4 - Manual
+
+1) Install requirements:
+   pip install cryptography
+
+2) Open Settings (Tools → Settings), enter your SMTP/IMAP servers,
+   your email address and an app password (NOT your main password).
+   Click Save. Your password is stored encrypted.
+
+3) Inbox:
+   Tools → Inbox (IMAP). Double-click a row to view a message.
+
+4) Sending:
+   Fill From/To/Subject/Body → File → Send.
+   A copy is saved in data/outbox/.
+
+5) Drafts:
+   File → Save Draft.
+
+6) Logs:
+   Tools → Logs.

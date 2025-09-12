@@ -1,0 +1,4 @@
+Help / Notes
+- Use an App Password with your provider (e.g., Gmail/Outlook) and enable IMAP.
+- If STARTTLS fails, set smtp_use_tls=false and try port 465 with SSL (not implemented here).
+- Your encryption key is stored in config/secret.key. Keep it private.
